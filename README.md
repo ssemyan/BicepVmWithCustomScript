@@ -50,6 +50,3 @@ This script first does a test run and shows what will be changed. To proceed, ty
 
 # Output
 Once everything is deployed the script will output the public IP address of the VM. You can then use this IP address in a web browser to see the nginx welcome page with the VM name. 
-
-# Logging
-All logs are sent to a single Log Analytics workspace (30 day retention) and storage account (180 day retention) in the monitoring resource group. 
