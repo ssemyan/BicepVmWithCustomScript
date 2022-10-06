@@ -1,7 +1,7 @@
 # Introduction 
 This is an example of how to create a VM with a Custom Script Extension to install Nginx in Azure using Bicep.
 
-![Architecture Diagram](https://github.com/ssemyan/BicepVmWithCustomScript/raw/main/VMArchitecture.png)
+![Architecture Diagram](https://github.com/ssemyan/BicepVmWithCustomScript/raw/master/VMArchitecture.png)
 
 # Getting Started
 To deploy, you need the Azure CLI installed and logged in. You also need the Bicep extensions. 
